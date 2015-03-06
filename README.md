@@ -21,4 +21,4 @@ Stork Delivery System is licensed under a Creative Commons Attribution-NonCommer
 * You may remix your own derivatives (new models, alternative textures, etc.) and release them under your own name.
 * You may not use the material for any commercial purposes.
 * You must use the same license as the original work.
-* You must credit the following people when publishing your derivative: riocrokite.
+* You must credit the following people when publishing your derivative: riocrokite (Stork Delivery System).
